@@ -1,5 +1,5 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5994023&assignment_repo_type=AssignmentRepo)
-# MAD: ASSIGNMENT ONE - Flutter Widgets
+
+
 
 # Instructions
 
@@ -15,26 +15,6 @@ A few resources to help you on this Flutter project:
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 - [Docs: Flutter widgets](https://flutter.dev/docs/development/ui/widgets)
-
-# ASSIGNMENT TWO - More Flutter Widgets, Themes and Styling
-
-# Instructions
-
-- Finish the code labs Flutter MDC (101-104) then apply the acquired skills in the Starbelly 
-  Restaurant app
-- Change the layouts Grid view
-- Add more food cards of your choice(at least 20)
-- Add search and filter icons on the AppBar
-- Add colors.dart file which will contain your individual color schemes for the application. 
-  Refer to the links below.
-- Add restaurant_theme.dart file which will contain the app themes
-- Style your app based on the themes, colors and fonts (google fonts) of your choice.
-- Add a login screen that will be the entry screen of the app (refer to the code in the code labs)
-- OPTIONAL (for those who wants to take the app a few steps further):
--   Add a bottom navigation bar with at least four sections
--   Add a details screen with so that when the user "taps" on the food card they can to the details screen
-    
-## Resources
 
 A few resources to help you on this Flutter project:
 - [Coloors](https://coloors.co)
