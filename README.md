@@ -1,13 +1,4 @@
 
-
-
-# Instructions
-
-- Create a new flutter app project that will follow the structure of the widget tree found here: [Widget Tree diagram](https://drive.google.com/file/d/1bjzgIEZjsw31jmzk5PG3YRl2yqZEJp0Q/view?usp=sharing)
-
-- The final app should look like the "expected final result" image file found in images folder of the project template.
-- Use the resources(images) given in the template.
-
 ## Resources
 
 A few resources to help you on this Flutter project:
